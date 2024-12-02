@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/109998/pexels-photo-109998.jpeg" align="left" height="4000" width="900" />  
+<img src="https://images.pexels.com/photos/109998/pexels-photo-109998.jpeg" align="left" height="400" width="900" />  
   
 
 ### <div align="center">Je suis Pierre, actuellement étudiant en Bachelor</div>  
