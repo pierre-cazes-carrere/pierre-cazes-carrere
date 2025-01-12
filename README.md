@@ -4,10 +4,10 @@
 ### <div align="center">Je suis Pierre, actuellement étudiant en Bachelor</div>  
   
 
-- Specialisé dans l'ia et la cyber🖥️  
+- Specialisé dans l'ia   
   
 
-- Je suis entrain de passer une certification sur les réseaux de chez cisco🔜  
+- Je suis entrain de passer une certification "Elements of AI" de l'Université de Helsinki !  
   
 
 - Si vous avez la moindre question 🧐, je pourrais y repondre !  
