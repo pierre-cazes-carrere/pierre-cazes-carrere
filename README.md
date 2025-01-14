@@ -12,7 +12,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 - **Domaine :** Analyse de données, Gestion de portefeuille, IA
 
 ## 📈 Projets phares
-- 🔗 [Mon CV en ligne](https://pierre-cazes-carrere.github.io/my-cv/)
+- 🔗 [Mon CV en ligne](https://pierre-cazes-carrere.github.io/Curriculum_Vitae/)
 - 📊 Analyse des tendances économiques avec Python (à venir)
 
 ## 🌐 Me contacter
