@@ -13,7 +13,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 
 ## 📈 Projets phares
 - 🚗 [Premier projet, garage de voitures (2023)](https://pierre-cazes-carrere.github.io/EcfPierre/)
-- ⏰ Horloge modulable avec interface graphique (à venir)
+- ⏰ Horloge modulable avec interface graphique (en cours)
 - 📊 Analyse des tendances économiques avec Python (à venir)
 
 ## 🌐 Me contacter
