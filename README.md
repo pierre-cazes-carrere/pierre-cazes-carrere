@@ -8,7 +8,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 
 ## 🔧 Compétences
 - **Langages :** Python, SQL, HTML, CSS
-- **Outils :** Git, Trello, Jira, GitHub Actions
+- **Outils :** Git, Trello, Jira, GitHub
 - **Domaine :** Analyse de données, Gestion de portefeuille, IA
 
 ## 📈 Projets phares
