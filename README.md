@@ -13,6 +13,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 
 ## 📈 Projets phares
 - 🔗 [Mon CV en ligne](https://pierre-cazes-carrere.github.io/Curriculum_Vitae/)
+- ⏰ Horloge modulable avec interface graphique (à venir)
 - 📊 Analyse des tendances économiques avec Python (à venir)
 
 ## 🌐 Me contacter
