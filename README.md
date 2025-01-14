@@ -12,6 +12,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 - **Domaine :** Analyse de données, Gestion de portefeuille, IA
 
 ## 📈 Projets phares
+- 🚗 [Premier projet, garage de voitures (2023)](https://pierre-cazes-carrere.github.io/EcfPierre/)
 - ⏰ Horloge modulable avec interface graphique (à venir)
 - 📊 Analyse des tendances économiques avec Python (à venir)
 
