@@ -10,6 +10,9 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 - **Langages :** Python, SQL, HTML, CSS
 - **Outils :** Git, Trello, Jira, GitHub Actions
 - **Domaine :** Analyse de données, Gestion de portefeuille, IA
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)
 
 ## 📈 Projets phares
 - ⏰ Horloge modulable avec interface graphique (à venir)
