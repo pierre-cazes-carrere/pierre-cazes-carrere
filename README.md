@@ -19,7 +19,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 ## 🌐 Me contacter
 - [Mon CV en ligne](https://pierre-cazes-carrere.github.io/Curriculum_Vitae/)
 - [LinkedIn](https://www.linkedin.com/in/pierrecazescarrere/)
-- [Portfolio](https://pierre-cazes-carrere.github.io/portfolio/)
+- [Portfolio (En création)](https://pierre-cazes-carrere.github.io/portfolio/)
 
 
 
