@@ -1,3 +1,6 @@
+<img src="https://github.com/pierre-cazes-carrere/pierre-cazes-carrere/blob/main/Capture%20d'%C3%A9cran%202025-01-24%20153842.png" alt="Bannière GitHub" style="width:100%;"/>
+
+
 # 👋 Bienvenue sur mon GitHub !
 Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence artificielle**. 🌟
 
