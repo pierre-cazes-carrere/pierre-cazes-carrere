@@ -22,8 +22,8 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 - 📊 Analyse des tendances économiques avec Python (à venir)
 
 ## 🌐 Me contacter
-- [Mon CV en ligne](https://pierre-cazes-carrere.github.io/Curriculum_Vitae/)
-- [LinkedIn](https://www.linkedin.com/in/pierrecazescarrere/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://pierre-cazes-carrere.github.io/Curriculum_Vitae/)
+- [![CV](https://img.shields.io/badge/-CV-orange?style=flat-square&logo=DocuSign&logoColor=white)](https://www.linkedin.com/in/pierrecazescarrere/)
 - [Portfolio (En création)](https://pierre-cazes-carrere.github.io/portfolio/)
 
 
