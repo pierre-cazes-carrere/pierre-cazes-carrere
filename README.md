@@ -6,6 +6,11 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 - 🌱 Actuellement : Étudiant en data science et IA.
 - 🏔 Ancien Chasseur Alpin, rigoureux et persévérant.
 
+## 📜 Diplômes | Certifications
+- Bachelor ( Bac+3 ) : Concepteur développeur Data/IA
+- Certification : Gestion de projet google ( Google management )
+- Certification : Elements oh AI ( Université de Helsinki )
+
 ## 🔧 Compétences
 - **Langages :** Python, SQL, HTML, CSS
 - **Outils :** Git, Trello, Jira, GitHub
