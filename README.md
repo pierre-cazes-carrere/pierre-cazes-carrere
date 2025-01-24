@@ -12,7 +12,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 - Certification : Elements oh AI ( Université de Helsinki )
 
 ## 🔧 Compétences
-- **Langages :** Python, SQL, HTML, CSS
+- **Langages :** Python.3, SQL, HTML.5, CSS.3
 - **Outils :** Git, Trello, Jira, GitHub
 - **Gestions :** Agile, Scrum, Kanban, XP, Waterfall
 
