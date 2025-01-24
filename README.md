@@ -24,7 +24,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 ## 🌐 Me contacter
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://pierre-cazes-carrere.github.io/Curriculum_Vitae/)
 - [![CV](https://img.shields.io/badge/-CV-orange?style=flat-square&logo=DocuSign&logoColor=white)](https://www.linkedin.com/in/pierrecazescarrere/)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square&logo=Gmail&logoColor=white)](https://pierre-cazes-carrere.github.io/portfolio/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square&logo=logoColor=white)](https://pierre-cazes-carrere.github.io/portfolio/)
 
 
 
