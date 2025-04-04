@@ -11,8 +11,9 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 
 ## 📜 Diplômes | Certifications
 - Bachelor ( Bac+3 ) : Concepteur développeur Data/IA
-- Certification : Gestion de projet Agile ( Google management )
-- Certification : Elements oh AI ( Université de Helsinki )
+- IBM Data Analyst (à venir)
+- Certification : Gestion de projet Agile (Google management)
+- Certification : Elements of AI (Université de Helsinki)
 
 ## 🔧 Compétences
 - **Langages :** Python.3, SQL, HTML.5, CSS.3
@@ -21,7 +22,7 @@ Je suis Pierre Cazes-Carrere, un passionné de **data** et d'**intelligence arti
 
 ## 📈 Projets phares
 - 🚗 [Premier projet, garage de voitures (2023)](https://pierre-cazes-carrere.github.io/EcfPierre/)
-- ⏰ Horloge + météo avec interface graphique (en cours)
+- ⏰ Horloge + météo avec interface graphique (à venir)
 - 📊 Analyse des tendances économiques avec Python (à venir)
 
 ## 🌐 Me contacter
